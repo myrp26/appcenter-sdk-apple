@@ -6,7 +6,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "App Center",
+    name: "App_Center",
     defaultLocalization: "en",
     platforms: [
         .iOS(.v9),
